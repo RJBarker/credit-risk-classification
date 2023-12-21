@@ -55,7 +55,7 @@ Structure your report by using the report template that `Starter_Code.zip` inclu
 - **The results:** Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 - **A summary:** Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
 
-My report can be viewed [here](Resources/analysis-report.md) or below:
+My report can be viewed [here](credit_risk/Resources/analysis-report.md) or below:
 
 <details>
 
